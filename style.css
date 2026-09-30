@@ -1,0 +1,27 @@
+img {
+	width: 400px;
+	height: 150px;
+  border-width: 8px;
+  border-color: green;
+  border-style: solid;
+  border-radius: 40px
+}
+
+h1 {
+	color: deeppink;
+	font-family: times new roman
+}
+
+h2 {
+	color: red;
+}
+
+body {
+	color: magenta;
+	font-size: 16;
+	font-family: sans-serif
+}
+
+html {
+	background-color: black
+}
