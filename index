@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<title>Willis' Page</title>
+<link rel="stylesheet" href="style.css">
+<h1>Willis</h1>
+
+<body>
+  Welcome to Willis Jenkins' amazing, awe-inspiring page.
+  <p>We're back, baby. Time to make America great.</p>
+  <h2>BEHOLD!</h2>
+  <img src = "willjenki.jpeg" />
+</body>
+
+</html>
